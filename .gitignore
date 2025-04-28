@@ -1,0 +1,10 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/CheraxAssets/v17/DocumentLayout.json
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/CheraxAssets/v17
+/.vs/CheraxAssets/FileContentIndex
